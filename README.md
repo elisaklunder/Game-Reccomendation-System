@@ -1,1 +1,1 @@
-
+This is the jupiter notebook of a Game Reccomendation System built by me and oher two team mates for a Kaggle competition. The Reccomendation algorithm is built on both content based filtering and collaborative filtering. All the steps are explained in the notebook itself.
